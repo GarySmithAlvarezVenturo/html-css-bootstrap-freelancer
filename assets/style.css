@@ -5,3 +5,47 @@
 .bg1{
     background-color: #1ABC9C;
 }
+
+.addresses {
+    color: var(--text-white);
+    background-color: var(--addresses);
+}
+
+.jumbo,
+.about {
+    color: var(--text-white);
+    background-color: var(--section-green)
+}
+
+a
+
+h1,
+h3 {
+    padding-top: 3rem;
+}
+
+
+.box1 {
+    height: 10rem;
+    background-color: red;
+}
+.box2 {
+    height: 10rem;
+    background-color: green;
+}
+.box3 {
+    height: 10rem;
+    background-color: brown;
+}
+.box4 {
+    height: 10rem;
+    background-color: aqua;
+}
+.box5 {
+    height: 10rem;
+    background-color: darkblue;
+}
+.box6 {
+    height: 10rem;
+    background-color: magenta;
+}
