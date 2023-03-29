@@ -6,46 +6,36 @@
     background-color: #1ABC9C;
 }
 
-.addresses {
-    color: var(--text-white);
-    background-color: var(--addresses);
-}
-
-.jumbo,
-.about {
-    color: var(--text-white);
-    background-color: var(--section-green)
-}
-
-a
-
 h1,
 h3 {
     padding-top: 3rem;
 }
 
+/* PORTFOLIO */
 
-.box1 {
-    height: 10rem;
-    background-color: red;
+/* .portfolio-item{
+    position: relative;
 }
-.box2 {
-    height: 10rem;
-    background-color: green;
+
+.portfolio-item:hover{
+    cursor: pointer;
 }
-.box3 {
-    height: 10rem;
-    background-color: brown;
+
+.hidden{
+    width: 100%;
+    height: 100%;
+    background-color: greenyellow;
+    opacity: 0;
+    position: absolute;
+    font-size: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    transition: ease 2s;
+
 }
-.box4 {
-    height: 10rem;
-    background-color: aqua;
-}
-.box5 {
-    height: 10rem;
-    background-color: darkblue;
-}
-.box6 {
-    height: 10rem;
-    background-color: magenta;
-}
+
+.hidden:hover{
+    opacity: 100%;
+} */
